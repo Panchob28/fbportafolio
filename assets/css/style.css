@@ -1,0 +1,78 @@
+body{
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+header {
+  background-image: url('../img/fotomoto.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+  padding-bottom: 10rem;
+}
+
+.logoo{
+  font-family: 'Orbitron', sans-serif;
+  color: #ffffff;
+}
+
+a:link {
+  color: #ffffff;
+}
+
+ a:visited {
+  color: #ffffff;
+}
+
+a:hover {
+  color: #ffffff;
+}
+
+a:active {
+  color: #ffffff;
+}
+
+.imgg{
+  width: 482px;
+  height: 384px;
+}
+
+.oscuro{
+  color: #ffffff;
+}
+
+.oscuro a{
+  color:#ffffff;
+  text-decoration: none;
+}
+
+.wait{
+  border-top:1px solid rgba(255, 255, 255, 1);
+}
+
+.negrow{
+  border-top:1px solid rgba(0, 0, 0, 0.74);
+}
+
+.caruss img{
+  width: 250px;
+  height: 187.5px;
+}
+
+.carousel-indicators li{
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: #373A3C;
+}
+
+.carousel-indicators .acive{
+  background-color: #373A3C;
+}
+
+.carousel-indicators{
+  top: 200px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
